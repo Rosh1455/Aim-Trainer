@@ -1,1 +1,1 @@
-# Aim-Trainer
+Aim Trainer is a simple yet effective Python game built with Pygame to help improve your aiming and reaction speed. The goal is to click on appearing targets before they shrink away while maintaining accuracy. The game tracks your performance based on speed, accuracy, and hits while limiting the number of missed targets.
